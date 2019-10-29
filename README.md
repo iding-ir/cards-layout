@@ -4,7 +4,7 @@
 
 This is a quick layout that I created at work with my interns to improve their CSS3 skills.
 
-[Live Demo](http://accordion.iding.ir)
+[Live Demo](http://cards.iding.ir)
 
 ## Screenshots
 
